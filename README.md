@@ -1,0 +1,1 @@
+A [grunt-init](https://github.com/gruntjs/grunt-init, "grunt-init") template used in blog post somewhere on domain [justincalleja.com](http://justincalleja.com "http://justincalleja.com"). URLs may change - it's somewhere there... probably by the name "To mock a Mongoose" - nothing to do with logic puzzles ;)
